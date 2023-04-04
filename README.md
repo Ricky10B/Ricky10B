@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Soy Ricky Beltran</h1>
-<p align="center">Soy un desarrollador web autodidacta de Colombia</p>
+<h2 align="center">Soy un desarrollador web autodidacta de Colombia</h2>
 
 <h2 align="center">Tecnologías que Manejo</h2>
 
@@ -16,10 +16,6 @@
 </div>
 
 <h3 align="center">Mis estadísticas de Github</h3>
-<a href="https://github.com/Ricky10B">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricky10B&show_icons=true&theme=tokyonight&count_private=true" alt="Ricky GitHub stats" />
-</a>
+<a href="https://github.com/Ricky10B"><img src="https://github-readme-stats.vercel.app/api?username=Ricky10B&show_icons=true&theme=tokyonight&count_private=true" alt="Ricky GitHub stats" /></a>
 
-<a href="https://github.com/Ricky10B">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky10B" alt="Top Langs" />
-</a>
+<a href="https://github.com/Ricky10B"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky10B" alt="Top Langs" /></a>
